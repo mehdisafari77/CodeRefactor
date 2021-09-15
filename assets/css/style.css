@@ -11,7 +11,7 @@ body {
 /*header section*/
 
 header {
-    padding: 20px;
+    padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -20,11 +20,12 @@ header {
 }
 
 nav {
-    padding: 20px;
+    padding: 0;
+    padding-top: 5px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 21px;
     justify-content: center;
 }
 
